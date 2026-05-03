@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Joshua 👋
+🚀 Software Engineering Student | NSLS Presidential Member
+I am a driven learner transitioning into the software engineering industry. I am focused on mastering technical fundamentals and building a professional portfolio to secure an entry-level position by September or October 2026.
 
-<!--
-**Joshua-Igert/Joshua-Igert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Core Strengths & Learning Capacity
+I have a proven track record of self-teaching complex systems and maintaining high academic standards:
 
-Here are some ideas to get you started:
+Academic Excellence: Earned a 3.3+ cumulative GPA during my collegiate studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Leadership: Achieved Presidential Level status in the National Society of Leadership and Success (NSLS).
+
+Linguistic Skills: Conversational proficiency in Russian.
+
+Musical Background: Self-taught multi-instrumentalist with experience in violin, piano, guitar, cello, and ukulele.
+
+🛠️ Current Focus:
+Developing a professional software engineering portfolio.
+
+Mastering HTML, CSS, and JavaScript.
+
+Collaborating on professional development and leadership tasks.
