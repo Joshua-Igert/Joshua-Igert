@@ -5,7 +5,7 @@ I am a driven learner transitioning into the software engineering industry. I am
 🧠 Core Strengths & Learning Capacity
 I have a proven track record of self-teaching complex systems and maintaining high academic standards:
 
-Academic Excellence: Earned a 3.3+ cumulative GPA during my collegiate studies.
+Academic Excellence: Earned a 3.66 cumulative GPA during my collegiate studies.
 
 Leadership: Achieved Presidential Level status in the National Society of Leadership and Success (NSLS).
 
